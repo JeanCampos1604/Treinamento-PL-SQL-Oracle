@@ -34,17 +34,17 @@
               WHERE COD_ALUNO = 1 )
   AND COD_ALUNO <> 1 ;
 
-  SELECT * FROM TALUNO
+  SELECT * FROM TALUNO;
 
   --Soma todos os itens, e mostra somente cujo o
   --valor minimo seja maior que o valor medio
   --dos cursos
   SELECT COD_CURSO, Min(VALOR),Sum(VALOR),
          Count(*) QTDE
-  FROM TITEM
+  FROM TITEM2
   WHERE cod_curso > 0
   GROUP BY COD_CURSO
-  HAVING Min(VALOR) >=
+  HAVING Min(VALOR) <=
         (SELECT Avg(VALOR) FROM TCURSO)
   ORDER BY Cod_Curso;
 
@@ -93,8 +93,7 @@
   --pelo valor padrao
   SELECT * FROM TITEM
   WHERE (COD_CURSO, VALOR) IN
-        (SELECT COD_CURSO, VALOR FROM TCURSO)
-
+        (SELECT COD_CURSO, VALOR FROM TCURSO);
 
   --SubConsulta na clausula From
   SELECT ITE.COD_CONTRATO, ITE.VALOR, ITE.COD_CURSO,
@@ -103,7 +102,7 @@
        ( SELECT COD_CURSO, VALOR
          FROM TCURSO WHERE VALOR > 500 ) CUR
 
-  WHERE CUR.COD_CURSO = ITE.COD_CURSO
+  WHERE CUR.COD_CURSO = ITE.COD_CURSO 
 
 
 

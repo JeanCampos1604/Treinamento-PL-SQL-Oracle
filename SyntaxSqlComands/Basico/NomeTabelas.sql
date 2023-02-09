@@ -12,7 +12,7 @@ Endereço - GEENDERECO (Compartilhado)
 Empresa - GEEMPRESA
 Parâmetros da empresS por estabelecimento - GEEMPRESAPARAMESTAB
 Relacionamento entre empresa e endereço - GEENDEMPRESA
-Colaboradores - GEFUNCIONARIOS
+Funcionarios - GEFUNCIONARIOS
 Pessoas - GEPESSOA
 Endereço - GEPESSOAEND
 País, estados e município - GEPAIS, GEESTADO e GEMUNICIPIO / GEPAISBACEN, GEESTADOIBGE, GEMUNICIPIOIBGE

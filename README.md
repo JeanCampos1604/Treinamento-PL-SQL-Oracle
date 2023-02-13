@@ -1,4 +1,4 @@
-![plsql-interview](https://user-images.githubusercontent.com/69609519/218458562-3815e13b-1a94-41b9-9ac2-024390dc6f4d.jpg)
+![plsql-interview50](https://user-images.githubusercontent.com/69609519/218459431-3163bedf-cd7f-4749-b416-d1a5e2bcf6d7.jpg)
 <h1 align = center> Treinamento-PL-SQL-Oracle </h1>
 Diretório "Material" refere-se a todas as documentações usadas;
 Diretório "Projetos" refere-se a códigos feitos no toad e no leet code para o aprendizado através das documentações do curso da udemy 

@@ -36,7 +36,6 @@ PEPRODUTO
 Produto - FSPRODUTO
 Parâmetros do produto por estabelecimento - FSPRODUTOPARAMESTAB
 Parâmetros de produção do produto por estabelecimento - FSPRODUTOPCP
-Personalizável - PEPRODUTO
 Complemento - FSPRODCOMPLEMENTO / FSPRODCOMPLDET
 
 --COMPRAS

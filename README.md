@@ -2,8 +2,8 @@
        
 <div align="center">
   
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
-![Badge ultima atualização](https://img.shields.io/github/last-commit/JeanCampos1604/Treinamento-PL-SQL-Oracle?label=%C3%9Altima%20Atualiza%C3%A7%C3%A3o&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=BLUE&style=for-the-badge)
+![Badge ultima atualização](https://img.shields.io/github/last-commit/JeanCampos1604/Treinamento-PL-SQL-Oracle?color=blue&label=%C3%9Altimo%20Update&style=for-the-badge)
 </div>
 
 <h3> 

@@ -1,5 +1,6 @@
 -- F5 Para Executar
 
+
 CREATE TABLE TALUNO
 (
   COD_ALUNO INTEGER NOT NULL,

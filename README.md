@@ -15,4 +15,5 @@
 - Diretório "Projetos" refere-se a códigos feitos no toad e no leet code para o aprendizado através das documentações do curso da udemy 
 e dos exercícios da leet code;
 
-- Diretório "SyntaxSqlComands" refere-se a sintaxe dos objetos oracle, como: tabelas, procedures, functions, anon block, etc... 
+- Diretório "SyntaxSqlComands" refere-se a sintaxe dos comandos básicos de tabelas: DML, DQL, DDL, DTL. 
+E também a objetos oracle, como por exemplo: Procedures, Functions, Anon block, Views, etc... 

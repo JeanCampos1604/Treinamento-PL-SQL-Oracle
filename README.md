@@ -12,6 +12,8 @@
 
 - Diretório "Material" refere-se a todas as documentações usadas;
 
+- Diretório "Power BI" referente aos materiais do curso da Udemy de Power BI e dos Projetos dispostos pelo mesmo
+
 - Diretório "Projetos" refere-se a códigos feitos no toad e no leet code para o aprendizado através das documentações do curso da udemy 
 e dos exercícios da leet code;
 
